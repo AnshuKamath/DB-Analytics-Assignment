@@ -1,6 +1,6 @@
 # Database and Analytics Coursework
 
-This repository contains the coursework for the Databases and Analytics module (CP60056E, CP6CS56E, CP6HA50E, CP6SA56E).
+This repository contains the coursework for the Databases and Analytics module (CP6CS56E).
 
 ## Overview
 
